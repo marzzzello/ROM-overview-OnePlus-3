@@ -137,13 +137,6 @@
 <td><p><a href=""></a>6.0.1</p></td>
 <td><p>Many…</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="http://forum.xda-developers.com/oneplus-3/development/rom-resurrectionremix-m-v5-7-0-20160616-t3399921">ResurrectionRemix-M-v5.7.0</a></p></td>
-<td><p>CM 13, AOSP</p></td>
-<td><p>no</p></td>
-<td><p><a href=""></a>6.0.1</p></td>
-<td><p>CM, SLIM &amp; OMNI Tweaks</p></td>
-</tr>
 <tr class="odd">
 <td><p><a href="http://forum.xda-developers.com/oneplus-3/development/rom-temasek-s-cm-13-t3401626">TEMASEK'S CM 13 V9.8</a></p></td>
 <td><p>CM 13</p></td>
@@ -178,6 +171,13 @@
 <td><p>no</p></td>
 <td><p>6.0.1</p></td>
 <td><p>Xperia look</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="http://forum.xda-developers.com/oneplus-3/development/rom-resurrectionremix-m-v5-7-0-20160616-t3399921">ResurrectionRemix-M-v5.7.0</a></p></td>
+<td><p>CM 13, AOSP</p></td>
+<td><p>no</p></td>
+<td><p><a href=""></a>6.0.1</p></td>
+<td><p>CM, SLIM &amp; OMNI Tweaks</p></td>
 </tr>
 <tr class="even">
 <td><p><a href=""></a><a href="http://forum.xda-developers.com/oneplus-3/development/rom-resurrection-remix-m-t3399960">[BlackjubelRR][ElementalX]RESURRECTION REMIX M</a></p></td>
