@@ -152,7 +152,7 @@
 <td><p><a href="http://forum.xda-developers.com/oneplus-3/development/rom-temaseks-cyanogenmod-13-t3401719">Temasek's CyanogenMod 13</a></p></td>
 <td><p>CM 13</p></td>
 <td><p>no</p></td>
-<td><p>6.0.l</p></td>
+<td><p>6.0.1</p></td>
 <td><p>Many different</p></td>
 </tr>
 <tr class="odd">
