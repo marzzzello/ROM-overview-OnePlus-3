@@ -1,3 +1,6 @@
+
+<a href="http://forum.xda-developers.com/oneplus-3/development/">from xda-developers.com</a>
+#List:
 <table>
 <tbody>
 <tr class="odd">
